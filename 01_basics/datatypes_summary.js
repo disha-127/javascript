@@ -16,13 +16,13 @@ const heros = ["shaktiman", "superhero", "batman"];
 //object //always in a key value pair
 {
     name: "disha",
-    age: 21,
+    age: 21
 }
 
 //object can also be stored in a variable
 let my_object = {
-    name: "disha"
-    age: 21,
+    name: "disha",
+    age: 21
 }
 
 //funtion  //function can be treated as a variable
